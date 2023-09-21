@@ -1,0 +1,11 @@
+﻿  grammer.cpp
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\lexical.h(86,12): warning C4101: “tokenType”: 未引用的局部变量
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(175,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(202,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(227,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(306,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(369,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(374,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\grammer.cpp(487,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\Tiny_Syntax_Analysis\lexical.h(499): warning C4715: “Lexical::tokenTypeStr”: 不是所有的控件路径都返回值
+  Tiny_Syntax_Analysis.vcxproj -> D:\86186\Documents\sources\VS2019\Tiny_Syntax_Analysis\x64\Debug\Tiny_Syntax_Analysis.exe
